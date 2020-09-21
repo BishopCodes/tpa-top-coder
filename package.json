@@ -10,9 +10,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.14.0",
     "@mdi/js": "^5.6.55",
-    "@vuetify/vuex-cognito-module": "^0.5.4",
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.6.5",
     "event-source-polyfill": "^1.0.19",

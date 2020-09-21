@@ -16,7 +16,7 @@ export default new Vuetify({
     scrollBarWidth: 24,
   },
   icons: {
-    iconfont: 'fa',
+    iconfont: 'mdiSvg',
     values: {
       appLogo: {
         component: AppIcon,
